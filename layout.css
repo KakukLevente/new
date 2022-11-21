@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+
+}
+h1{
+    background-color: aquamarine;
+}
+
+#container{
+    
+}
+.navh{
+    background-color:darkkhaki ;
+    float:left;
+    
+}
+.more{
+    background-color: antiquewhite;
+    float:left;
+}
+#content{
+    float:right;
+}
+.footer{
+    background-color: antiquewhite;
+}
